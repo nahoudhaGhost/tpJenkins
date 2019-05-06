@@ -1,6 +1,6 @@
 package com.mycompany.app;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
@@ -15,9 +15,8 @@ public class AppTest
     @Test
     public void shouldAnswer11()
     {
-        Calculatrice c = new Calculatrice();
-        int x= c.addition(5,6);
-        assertEquals(x,15);
+        
+        assertTrue(false);
 	
     }
 }
