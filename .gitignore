@@ -1,0 +1,5 @@
+#Pas de fichier .mat (test)
+*.mat
+#exclue les fichiers de build
+build/
+
