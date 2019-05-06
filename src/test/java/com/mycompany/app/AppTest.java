@@ -13,7 +13,7 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswer11()
+    public void shouldAnswerWithTrue()
     {
         
         assertTrue(false);
